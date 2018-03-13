@@ -1,0 +1,62 @@
+[
+  {
+    "account": {
+      "accountId": 1,
+      "account": "1",
+      "password": "r"
+    },
+    "bookInfo": {
+      "bookIsbn": "10078·3168",
+      "bookName": "《啊，黄浦江》",
+      "bookAuthor": "于之著",
+      "bookPublish": " 上海：上海文艺出版社 , 1980.08",
+      "bookPrice": "0.47",
+      "bookCnum": 113,
+      "bookSnum": 0,
+      "bookClassify": "I227",
+      "bookSummary": "",
+      "bookCover": "http://unicover.duxiu.com/coverNew/CoverNew.dll?iid=636261636465616864645896A7AA9BA758633935323838323232"
+    },
+    "subscribeStatus": false
+  },
+  {
+    "account": {
+      "accountId": 1,
+      "account": "1",
+      "password": "r"
+    },
+    "bookInfo": {
+      "bookIsbn": "10093·675",
+      "bookName": "《啊，西伯利亚》",
+      "bookAuthor": "（苏）马尔科夫（Марков，Г.）著；赵先捷等译",
+      "bookPublish": " 哈尔滨：黑龙江人民出版社 , 1986.05",
+      "bookPrice": "3.45",
+      "bookCnum": 130,
+      "bookSnum": 0,
+      "bookClassify": "I512.45",
+      "bookSummary": "",
+      "bookCover": "http://unicover.duxiu.com/coverNew/CoverNew.dll?iid=626160646468606869655795A6A99AA657623932323130323331"
+    },
+    "subscribeStatus": false
+  },
+  {
+    "account": {
+      "accountId": 1,
+      "account": "1",
+      "password": "r"
+    },
+    "bookInfo": {
+      "bookIsbn": "5319·36",
+      "bookName": "《D日谍影》",
+      "bookAuthor": "（美）《读者文摘》编；紫雯编译",
+      "bookPublish": " 北京：军事译文出版社 , 1985.03",
+      "bookPrice": "1.10",
+      "bookCnum": 613,
+      "bookSnum": 0,
+      "bookClassify": "I712.45",
+      "bookSummary": "",
+      "bookCover": "http://unicover.duxiu.com/coverNew/CoverNew.dll?iid=656463656A69636669655A98A9AC9DA95A653130313336343534"
+    },
+    "subscribeStatus": false
+  }
+]

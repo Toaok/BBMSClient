@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorAccent</item>
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="toolbarNavigationButtonStyle">@style/MyToolbarNavigationButtonStyle</item>
+    </style>
+
+    <!--home键位置样式-->
+    <style name="MyToolbarNavigationButtonStyle" parent="Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:minWidth">0dp</item>
+        <item name="android:width">0dp</item>
+        <item name="android:paddingLeft">10dp</item>
+    </style>
+    <!--SearchView样式-->
+
+    <!--无actionbar样式-->
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimaryDark">@color/colorAccent</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorControlNormal">@color/colorPrimary</item>
+    </style>
+
+    <!--editText样式（下划线、光标）-->
+    <style name="EditTextStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorControlNormal">@color/colorUnderlain</item>
+        <item name="colorControlActivated">@color/colorUnderlain</item>
+    </style>
+</resources>
